@@ -1,0 +1,6 @@
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\bin\Debug\randomNumberGenerator.exe.config
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\obj\Debug\randomNumberGenerator.csprojResolveAssemblyReference.cache
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\bin\Debug\randomNumberGenerator.exe
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\bin\Debug\randomNumberGenerator.pdb
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\obj\Debug\randomNumberGenerator.exe
+C:\Users\darkt\Desktop\Water Bort\Portfolio\C#\randomNumberGenerator\randomNumberGenerator\obj\Debug\randomNumberGenerator.pdb
